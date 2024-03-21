@@ -1,0 +1,27 @@
+<svg width="98" height="159" viewBox="0 0 98 159" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_122_54)">
+<g filter="url(#filter1_b_122_54)">
+<path d="M31.3257 21.4204C30.5382 18.7955 33.3928 16.5759 35.7427 17.9858L67.4204 36.9925C68.0512 37.371 68.521 37.968 68.7404 38.6702L80.2827 75.6054C80.8863 77.5372 79.4431 79.5002 77.4192 79.5002H50.9818C49.6569 79.5002 48.489 78.6312 48.1083 77.3623L31.3257 21.4204Z" fill="#F6F6F6"/>
+<path d="M66.1743 137.58C66.9618 140.205 64.1072 142.425 61.7573 141.015L30.0796 122.008C29.4488 121.63 28.979 121.032 28.7596 120.33L17.2173 83.3951C16.6137 81.4633 18.0569 79.5003 20.0808 79.5003H46.5182C47.8431 79.5003 49.011 80.3693 49.3917 81.6382L66.1743 137.58Z" fill="#F6F6F6"/>
+</g>
+<path d="M45.6598 69.202L59.2542 79.4481C59.2542 79.4481 52.9216 79.4481 51.2212 81.1485C49.5208 82.8488 51.2212 87.7397 51.2212 87.7397L39.0686 79.5007C39.0686 79.5007 45.5556 79.4482 46.8172 78.1865C48.0789 76.9248 45.6598 69.202 45.6598 69.202Z" fill="#F5F5F5"/>
+</g>
+<defs>
+<filter id="filter0_d_122_54" x="0.479101" y="0.947851" width="96.5418" height="157.105" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="8.3"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.613851 0 0 0 0 0.613851 0 0 0 0 0.613851 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_122_54"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_122_54" result="shape"/>
+</filter>
+<filter id="filter1_b_122_54" x="-126.921" y="-126.452" width="351.342" height="411.905" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="72"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_122_54"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_122_54" result="shape"/>
+</filter>
+</defs>
+</svg>
